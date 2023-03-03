@@ -1,1 +1,1 @@
-# Minecraft_Server_Cadastro
+# Minecraft-server-cadastro
